@@ -159,8 +159,8 @@
 								$submit.disabled = false;
 
 							// Show message.
-								$message._show('success', 'Thank you!');
-								//$message._show('failure', 'Something went wrong. Please try again.');
+								$message._show('success', '谢谢!');
+								//$message._show('failure', '好像出错了，请等等吧！');
 
 						}, 750);
 
